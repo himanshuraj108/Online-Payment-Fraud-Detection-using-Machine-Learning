@@ -53,7 +53,7 @@ Project Structure
 └── README.md
 How to Run
 Clone the repository
-git clone https://github.com/your-username/fraud-detection-ml.git
+git clone https://github.com/himanshuraj108/Online-Payment-Fraud-Detection-using-Machine-Learning.git
 cd fraud-detection-ml
 Install dependencies
 pip install -r requirements.txt
